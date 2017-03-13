@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="50dp"
+    >
+    <CheckBox
+        android:layout_width="30dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:id="@+id/list_checkBox"
+        android:padding="1dp"
+        android:gravity="center_vertical"
+        android:theme="@style/checkBoxStyle"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Title "
+        android:id="@+id/Note_title"
+        android:textStyle="bold"
+        android:textSize="18dp"
+        android:gravity="center_vertical"
+        android:paddingLeft="10dp"
+        />
+</LinearLayout>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.krishna.mynotes.MainActivity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/colorPrimary"
+        android:gravity="center"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:id="@+id/linearLayout">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="My Notes"
+            android:textColor="#ffffff"
+            android:textStyle="bold"
+            android:textSize="20dp"/>
+       <!-- <TextView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:text="+"
+            android:layout_marginLeft="200dp"
+            android:textSize="30dp"
+            android:id="@+id/new_note"
+            android:textColor="#ffffff"/>-->
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:gravity="center"
+            android:layout_marginRight="5dp"
+            android:id="@+id/btn_delete"
+            android:src="@drawable/ic_delete"
+            android:visibility="visible"
+            android:layout_marginLeft="200dp"
+            android:layout_gravity="right|center"
+            android:textStyle="bold"/>
+    </LinearLayout>
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/my_note_listview"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"/>
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:layout_width="66dp"
+            android:layout_height="66dp"
+            android:id="@+id/new_note"
+            android:background="@drawable/fab"
+            android:text="+"
+            android:textColor="@color/white"
+            android:textSize="40dp"
+            android:gravity="center"
+            android:layout_gravity="bottom|right"
+            android:layout_marginRight="20dp"
+            android:layout_marginBottom="40dp" />
+    </FrameLayout>
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/Untitle">
+
+    </FrameLayout>
+
+
+</RelativeLayout>

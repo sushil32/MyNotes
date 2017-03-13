@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/sushil/Documents/MyNotes/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fdfaa39465ec93f086651ff21f27171303433c6c">
+        <dex dex="/Users/sushil/Documents/MyNotes/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_283c26cfbc2593ab0a41a18337ff7d4548ebdf3c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sushil/Documents/MyNotes/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/sushil/Documents/MyNotes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_91aab881c097d7cdcbb52b8b9dc82e43b6699cc0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sushil/Documents/MyNotes/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/sushil/Documents/MyNotes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_570a952c7bde389fd3d53e3136b40c6bd175feb6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sushil/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/sushil/Documents/MyNotes/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_1896d4d5bb5d8fb41865e5972a15d1db80629ab9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sushil/Documents/MyNotes/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5501ca7c903387ece08746aaac2da68dc17de564">
+        <dex dex="/Users/sushil/Documents/MyNotes/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4c56e6ac59f6a30ae66d1ae71073fef430c0dd2d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sushil/Documents/MyNotes/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/sushil/Documents/MyNotes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_6275a60031cd8f6110c9ab9d5851608d0afea91e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sushil/Documents/MyNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/sushil/Documents/MyNotes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_284345b2cdeb16782b437cf9b20599879c56a1b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sushil/Documents/MyNotes/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/sushil/Documents/MyNotes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_b486266b4c14593158d0d90e7587da869978481d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sushil/Documents/MyNotes/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/sushil/Documents/MyNotes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_1aa47c481234f7e99795980a28593e33046b285f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sushil/.gradle/caches/modules-2/files-2.1/io.realm/realm-android/0.84.1/b86074e6240f0f876701810a047b0261f7bd060e/realm-android-0.84.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b86074e6240f0f876701810a047b0261f7bd060e">
+        <dex dex="/Users/sushil/Documents/MyNotes/app/build/intermediates/transforms/dex/debug/folders/1000/10/realm-android-0.84.1_fb0a0fa3d15669f9d184dcffb0c5367bef7570b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sushil/Documents/MyNotes/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/sushil/Documents/MyNotes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_52632605e3eedc1146b38d5bd6ba3ef43a60bdd5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sushil/Documents/MyNotes/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/sushil/Documents/MyNotes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_00bc0a2532f7d6e72bbbd201e45d7c7f3df03b81/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sushil/Documents/MyNotes/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/sushil/Documents/MyNotes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_1707d750f1df1d8a67c3aff426b0d627bc79296e/classes.dex" />
+    </item>
+
+</items>
