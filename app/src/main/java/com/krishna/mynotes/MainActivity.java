@@ -19,6 +19,8 @@ import java.util.ArrayList;
 import io.realm.Realm;
 import io.realm.RealmResults;
 
+
+//sushil
 public class MainActivity extends AppCompatActivity {
 
 
@@ -27,7 +29,6 @@ public class MainActivity extends AppCompatActivity {
     ListView my_note_listview;
     ImageView btn_delete;
     NoteListAdapter adapter;
-    String [] titles;
     ArrayList<NoteListModel> templist =new ArrayList<>();
     ArrayList<NoteListModel> copyselectedlist =new ArrayList<>();
    // ArrayList<NoteListModel> title =new ArrayList<>();
