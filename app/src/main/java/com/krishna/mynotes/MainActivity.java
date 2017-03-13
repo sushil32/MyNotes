@@ -56,12 +56,7 @@ public class MainActivity extends AppCompatActivity {
         adapter=new NoteListAdapter(getBaseContext(),title);
         my_note_listview.setAdapter(adapter);
 
-        //adapter.
-
-
-       // my_note_listview.setAdapter(titles);
-
-
+        
 
         new_note.setOnClickListener(new View.OnClickListener() {
             @Override
